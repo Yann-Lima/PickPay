@@ -34,4 +34,9 @@ public class User {
     
     @Enumerated(EnumType.STRING)
     private UserType userType;
+
+	public UserType getUserType() {
+		// TODO Auto-generated method stub
+		return null;
+	}
 }
