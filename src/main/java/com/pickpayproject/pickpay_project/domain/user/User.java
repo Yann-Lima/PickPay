@@ -39,4 +39,9 @@ public class User {
 		// TODO Auto-generated method stub
 		return null;
 	}
+
+	public BigDecimal getBalance() {
+		// TODO Auto-generated method stub
+		return null;
+	}
 }
